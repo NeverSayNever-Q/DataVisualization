@@ -1,29 +1,9 @@
 # datareport
 
-## Project setup
-```
-npm install
-```
+## 说明
+数据可视化demo，涵盖常见图表：折线图、饼图、柱状图
+## 技术路线
+vue3 + vue-echart
+## 展示
+![image](https://user-images.githubusercontent.com/69444665/162625608-61d3de0b-b99d-4f7e-a25c-cfde3d65c6c2.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
